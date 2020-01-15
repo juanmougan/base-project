@@ -10,7 +10,7 @@ I'm following [this guide](https://www.pluralsight.com/guides/token-based-authen
 
 #### Composing User information
 
-Use [something like this](https://api.rubyonrails.org/classes/ActiveRecord/Aggregations/ClassMethods.html) to add User data to [AuthenticableUser]()
+Use [something like this](https://api.rubyonrails.org/classes/ActiveRecord/Aggregations/ClassMethods.html) to add User data to [User](https://github.com/juanmougan/base-project/blob/master/app/models/user.rb)
 
 ### Common issues
 
